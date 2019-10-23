@@ -1,0 +1,161 @@
+/*font-family: 'PT Sans', sans-serif;*/
+@font-face{
+	src:url(../fonts/Helvetica-Neue-Bold.ttf);
+	font-family: Helvetica-Neue-Bold;
+} 
+
+body{
+	font-family: 'PT Sans', sans-serif;
+  
+}
+/*header start*/
+ header{
+ 	background-color: #fcdb00; 
+ 	padding: 20px 0;
+ }
+ .menu{}
+ .menu ul{}
+.menu ul li{}
+.menu ul li a{
+	font-weight: 700px;
+	font-size: 22px;
+	color: 010101!important; 
+	transition: .5s;
+	padding: 0 40px !important;
+}
+
+.menu ul li a:hover{
+	color: white !important; 
+}
+.menu ul li:last-child a{
+	padding: 0!important;
+}
+
+/*slider start*/
+.slider{
+	background-color: #fcdb00; 
+	padding-bottom: 100px;
+}
+.inspire{
+	margin-top: 70px;
+}
+.inspire h1{
+	font-weight: 700px;
+	font-size: 32px;
+	color: #010101;
+}
+.inspire h2{
+	font-weight: 400px;
+	font-size: 20px;
+	color: #313841;
+}
+.inspire p{
+
+	font-size: 16px;
+	color: #555555;
+}
+}
+.inspire.list-inline li{
+	font-size: 45px;
+	color: #010101;
+	margin-right: 30px;
+
+}
+.s_img{
+	text-align: center;
+}
+/*slider end*/
+/*carousel*/
+.cid-indicators{
+	
+	bottom: -70px;
+	
+}
+
+.cid li{
+	
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	
+	background-color: red;
+	
+
+}
+.cid .active{
+	
+	background-color: green;
+}
+/*carousel*/
+.feature{
+	padding-top: 110px;
+	padding-bottom: 150px;
+}
+.c_title{
+	margin-bottom: 40px;
+} 
+.c_title h1{
+	font-weight: 700px;
+	font-size: 32px;
+	color: #010101;
+} 
+.c_title p{
+	font-size:20px; 
+	color:#313848;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+} 
+.s_icon{
+	font-size: 50px;
+}
+.s_content{
+	margin-top: 15px;
+}
+.s_content h2{
+	
+	font-size: 22px;
+	color: #010101;
+
+}
+.s_content p{
+	font-size:16px; 
+	color:#898989;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+} 
+.p_30{
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.contact{
+	background-color: #010101;
+	padding-top: 80px;
+	padding: 80px;
+}
+.yellow{
+	color: #fcdb00 !important;
+}
+.ash{
+	color: #898989 !important;
+}
+.form{}
+.form input{
+	font-weight: 400;
+	font-size:16px;
+	color: #898989;
+	padding: 25px 25px;
+}
+.form input focus{
+
+	outline-color: none: !important;
+}
+.btn-custom{
+	background-color:#fcdb00; 
+	font-weight: 700;
+	font-size:16px;
+	color: #010101;
+	text-transform:uppercase;
+	padding: 12px 35px;
+}
+
+
