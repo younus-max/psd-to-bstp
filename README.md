@@ -1,2 +1,2 @@
 # psd-to-bstp
-tin
+psd
